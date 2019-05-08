@@ -278,10 +278,10 @@ void SejtAblak::sikloKilovo(bool **racs, int x, int y) {
             Megoldás forrása: <link xlink:href=""></link>               
         </para>
         <para>
-            A program a Conway-féle sejtautomatákat hivatott létrehozni.
-            A sejtautomatákat egy griden ábrázoljuk, s eldöntjük róluk hogy élőek-e avagy sem.
-            Egy sejtautomata pontosan akkor élő ha 2 vagy 3 szomszédja élő.
-            Illetve ha egy üres cellának pontosan 3 élő szomszédja van, akkor az üres cella helyére élő "sejt" kerül.  
+            Létrehottuk a COnway-féle sejtautomatát a program segítségével.
+            AZ automatát egy griden ábrázoljuk, mely eldönti, hogy élő-e a sejt vagy nem.
+            Egy sejtautomata akkor élő ha 2 szomszédja nem élő és 3 élő.
+            Ha egy üres cellának 3 élő szomszédja van a cella helyére élő sejt kerül.  
             
         </para>            
     </section>        
