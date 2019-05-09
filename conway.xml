@@ -282,7 +282,7 @@ void SejtAblak::sikloKilovo(bool **racs, int x, int y) {
             AZ automatát egy griden ábrázoljuk, mely eldönti, hogy élő-e a sejt vagy nem.
             Egy sejtautomata akkor élő ha 2 szomszédja nem élő és 3 élő.
             Ha egy üres cellának 3 élő szomszédja van a cella helyére élő sejt kerül.  
-            
+            TUTOR: Rémiás Dávid
         </para>            
     </section>        
     <section>
@@ -407,6 +407,7 @@ void BrainBThread::set_paused ( bool p )
             A headerben a hősök tulajdonságait találjuk, tartózkodási hely x és y koordinátákkal, valamint egy "agility" érték, amely a hősünk mozgásáért felelős (hány egységet léphet egyszerre).
             //a header pontos megértése szükséges
             A cpp fájlban 4 játékost láthatunk, valamint egy pause funkciót.
+		Tutor: Rémiás Dávid
         </para>            
     </section>        
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
