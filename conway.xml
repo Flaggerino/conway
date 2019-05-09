@@ -44,6 +44,7 @@
         </para>
         <para>
             Megoldás videó: // sejtablak.cpp
+		<programlisting><![CDATA[
 //
 // Életjáték rajzoló
 // Programozó Páternoszter
@@ -272,7 +273,7 @@ void SejtAblak::sikloKilovo(bool **racs, int x, int y) {
   
 }
 
-
+	]]></programlisting>
         </para>
         <para>
             Megoldás forrása: <link xlink:href=""></link>               
@@ -294,6 +295,7 @@ void SejtAblak::sikloKilovo(bool **racs, int x, int y) {
         </para>
         <para>
             Megoldás forrása: 
+		<programlisting><![CDATA[ 
 /**
  * @brief Benchmarking Cognitive Abilities of the Brain with Computer Games
  *
@@ -401,6 +403,7 @@ void BrainBThread::set_paused ( bool p )
         paused = p;
 
 }             
+			      ]]></programlisting>
         </para>
         <para>
             A program jelentős részét a header file képezi.
